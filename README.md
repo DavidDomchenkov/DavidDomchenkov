@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 markdown
 ### 📈 GitHub Activity Graph:
 ![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?DavidDomchenkov)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidDomchenkov&show_icons=true&theme=radical)
