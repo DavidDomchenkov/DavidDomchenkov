@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📈 GitHub Activity Graph:
-[![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?DavidDomchenkov)]
+[![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?DavidDomchenkov)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DavidDomchenkov)](https://git.io/streak-stats)
 
